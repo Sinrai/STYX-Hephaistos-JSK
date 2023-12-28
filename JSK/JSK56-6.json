@@ -1,0 +1,42 @@
+{
+  "ClassName": "Artemis.ComponentLibrary.Components.Exercises.SUI.GroupCollectionExerciseSingleDistance",
+  "Version": "1.0.0",
+  "MinimumComponentVersion": "2.8.0",
+  "Position": "300m",
+  "GroupDefinitions": [
+    {
+      "TargetDefinition": "a18d190d-1c10-4ba4-9e24-aa492b7c8937",
+      "UsedScores": [
+        "902f9a02-5e6e-4e05-aeb9-0aed5a680e8e"
+      ],
+      "FireKind": "Sighters",
+      "NumberOfRounds": 3,
+      "PrintBestShot": false
+    },
+    {
+      "TargetDefinition": "a18d190d-1c10-4ba4-9e24-aa492b7c8937",
+      "UsedScores": [
+        "902f9a02-5e6e-4e05-aeb9-0aed5a680e8e"
+      ],
+      "FireKind": "ShotByShot",
+      "NumberOfRounds": 10,
+      "PrintBestShot": false
+    },
+    {
+      "TargetDefinition": "a18d190d-1c10-4ba4-9e24-aa492b7c8937",
+      "UsedScores": [
+        "902f9a02-5e6e-4e05-aeb9-0aed5a680e8e"
+      ],
+      "FireKind": "Deferred",
+      "NumberOfRounds": 5,
+      "PrintBestShot": false
+    }
+  ],
+  "ColumnFormat": "LeftAndRight",
+  "PrintSighters": true,
+  "WeaponSelectionRequired": false,
+  "Parameters": [],
+  "Name": "JSK56 - Tag 6",
+  "Id": "ac648b12-6572-eb31-f42b-ddf71a763bca",
+  "ComponentType": "Exercise"
+}

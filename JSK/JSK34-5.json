@@ -1,0 +1,42 @@
+{
+  "ClassName": "Artemis.ComponentLibrary.Components.Exercises.SUI.GroupCollectionExerciseSingleDistance",
+  "Version": "1.0.0",
+  "MinimumComponentVersion": "2.8.0",
+  "Position": "300m",
+  "GroupDefinitions": [
+    {
+      "TargetDefinition": "a18d190d-1c10-4ba4-9e24-aa492b7c8937",
+      "UsedScores": [
+        "902f9a02-5e6e-4e05-aeb9-0aed5a680e8e"
+      ],
+      "FireKind": "Sighters",
+      "NumberOfRounds": 3,
+      "PrintBestShot": false
+    },
+    {
+      "TargetDefinition": "a18d190d-1c10-4ba4-9e24-aa492b7c8937",
+      "UsedScores": [
+        "902f9a02-5e6e-4e05-aeb9-0aed5a680e8e"
+      ],
+      "FireKind": "ShotByShot",
+      "NumberOfRounds": 10,
+      "PrintBestShot": false
+    },
+    {
+      "TargetDefinition": "a18d190d-1c10-4ba4-9e24-aa492b7c8937",
+      "UsedScores": [
+        "902f9a02-5e6e-4e05-aeb9-0aed5a680e8e"
+      ],
+      "FireKind": "Deferred",
+      "NumberOfRounds": 5,
+      "PrintBestShot": false
+    }
+  ],
+  "ColumnFormat": "LeftAndRight",
+  "PrintSighters": true,
+  "WeaponSelectionRequired": false,
+  "Parameters": [],
+  "Name": "JSK34 - Tag 5",
+  "Id": "a596a761-83ac-42c9-9437-293c2ca32a5b",
+  "ComponentType": "Exercise"
+}

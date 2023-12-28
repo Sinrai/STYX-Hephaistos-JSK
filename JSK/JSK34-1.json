@@ -1,0 +1,69 @@
+{
+  "ClassName": "Artemis.ComponentLibrary.Components.Exercises.SUI.GroupCollectionExerciseSingleDistance",
+  "Version": "1.0.0",
+  "MinimumComponentVersion": "2.8.0",
+  "Position": "300m",
+  "GroupDefinitions": [
+    {
+      "TargetDefinition": "2165bfcf-5aa3-402a-9130-539541cd32e1",
+      "UsedScores": [
+        "538891c8-ba02-4bc4-becd-0f6785fd9f5a"
+      ],
+      "FireKind": "Sighters",
+      "NumberOfRounds": 2,
+      "PrintBestShot": false
+    },
+    {
+      "TargetDefinition": "2165bfcf-5aa3-402a-9130-539541cd32e1",
+      "UsedScores": [
+        "538891c8-ba02-4bc4-becd-0f6785fd9f5a"
+      ],
+      "FireKind": "ShotByShot",
+      "NumberOfRounds": 3,
+      "PrintBestShot": false
+    },
+    {
+      "TargetDefinition": "2165bfcf-5aa3-402a-9130-539541cd32e1",
+      "UsedScores": [
+        "538891c8-ba02-4bc4-becd-0f6785fd9f5a"
+      ],
+      "FireKind": "ShotByShot",
+      "NumberOfRounds": 3,
+      "PrintBestShot": false
+    },
+    {
+      "TargetDefinition": "2165bfcf-5aa3-402a-9130-539541cd32e1",
+      "UsedScores": [
+        "538891c8-ba02-4bc4-becd-0f6785fd9f5a"
+      ],
+      "FireKind": "ShotByShot",
+      "NumberOfRounds": 3,
+      "PrintBestShot": false
+    },
+    {
+      "TargetDefinition": "2165bfcf-5aa3-402a-9130-539541cd32e1",
+      "UsedScores": [
+        "538891c8-ba02-4bc4-becd-0f6785fd9f5a"
+      ],
+      "FireKind": "ShotByShot",
+      "NumberOfRounds": 6,
+      "PrintBestShot": false
+    },
+    {
+      "TargetDefinition": "2165bfcf-5aa3-402a-9130-539541cd32e1",
+      "UsedScores": [
+        "538891c8-ba02-4bc4-becd-0f6785fd9f5a"
+      ],
+      "FireKind": "Deferred",
+      "NumberOfRounds": 4,
+      "PrintBestShot": false
+    }
+  ],
+  "ColumnFormat": "LeftAndRight",
+  "PrintSighters": true,
+  "WeaponSelectionRequired": false,
+  "Parameters": [],
+  "Name": "JSK34 - Tag 1",
+  "Id": "75393757-b83d-803a-3733-90662b88c4d3",
+  "ComponentType": "Exercise"
+}

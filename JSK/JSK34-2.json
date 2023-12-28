@@ -1,0 +1,51 @@
+{
+  "ClassName": "Artemis.ComponentLibrary.Components.Exercises.SUI.GroupCollectionExerciseSingleDistance",
+  "Version": "1.0.0",
+  "MinimumComponentVersion": "2.8.0",
+  "Position": "300m",
+  "GroupDefinitions": [
+    {
+      "TargetDefinition": "adb1a0dc-c3df-57bc-9f52-c97de1f0e93e",
+      "UsedScores": [
+        "88974b3b-b35b-41ac-bb5c-9c431a4b73f7"
+      ],
+      "FireKind": "Sighters",
+      "NumberOfRounds": 2,
+      "PrintBestShot": false
+    },
+    {
+      "TargetDefinition": "adb1a0dc-c3df-57bc-9f52-c97de1f0e93e",
+      "UsedScores": [
+        "88974b3b-b35b-41ac-bb5c-9c431a4b73f7"
+      ],
+      "FireKind": "ShotByShot",
+      "NumberOfRounds": 3,
+      "PrintBestShot": false
+    },
+    {
+      "TargetDefinition": "adb1a0dc-c3df-57bc-9f52-c97de1f0e93e",
+      "UsedScores": [
+        "88974b3b-b35b-41ac-bb5c-9c431a4b73f7"
+      ],
+      "FireKind": "ShotByShot",
+      "NumberOfRounds": 3,
+      "PrintBestShot": false
+    },
+    {
+      "TargetDefinition": "adb1a0dc-c3df-57bc-9f52-c97de1f0e93e",
+      "UsedScores": [
+        "88974b3b-b35b-41ac-bb5c-9c431a4b73f7"
+      ],
+      "FireKind": "ShotByShot",
+      "NumberOfRounds": 3,
+      "PrintBestShot": false
+    }
+  ],
+  "ColumnFormat": "LeftAndRight",
+  "PrintSighters": true,
+  "WeaponSelectionRequired": false,
+  "Parameters": [],
+  "Name": "JSK34 - Tag 2",
+  "Id": "7443acb5-22f0-63a9-e19b-399ac8d69e56",
+  "ComponentType": "Exercise"
+}
