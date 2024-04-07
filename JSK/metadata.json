@@ -3,7 +3,7 @@
   "PackageId":"a1ae874c-1ef6-4ecd-af32-a63101618caf",
   "Description":"Programme Jungeschützenkurse CH",
   "MinimumComponentVersion":"3.2.2",
-  "Version":"1.0",
+  "Version":"1.1",
   "SystemPackage":false,
   "DependedPackageId":null,
   "Entries":[
