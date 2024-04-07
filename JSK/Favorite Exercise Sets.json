@@ -1,0 +1,106 @@
+[
+  {
+    "Id":"cc5a7f2c-b29d-4222-b450-a7bd8cc2905f",
+    "Name":"Jungsch\u00FCtzen",
+    "Data":"[
+      {
+        \u0022Id\u0022:\u0022b3cedc38-1c55-ec75-4e0d-646bb790ba1d\u0022,
+        \u0022Name\u0022:\u0022Kurs12\u0022,
+        \u0022Exercises\u0022:[
+          {
+            \u0022Id\u0022:\u00226d687381-3534-0333-e65b-97a124288cd7\u0022,
+            \u0022Name\u0022:\u0022JSK12 - Tag 1\u0022,
+            \u0022SystemPackage\u0022:false
+          },
+          {
+            \u0022Id\u0022:\u00223da13f83-c973-1ade-f5b8-d7cb70b911dd\u0022,
+            \u0022Name\u0022:\u0022JSK12 - Tag 2\u0022,
+            \u0022SystemPackage\u0022:false
+          },
+          {
+            \u0022Id\u0022:\u00223a53b7eb-9ba5-c6f3-11e7-83cc9ba83334\u0022,
+            \u0022Name\u0022:\u0022JSK12 - Tag 3\u0022,
+            \u0022SystemPackage\u0022:false
+          },
+          {
+            \u0022Id\u0022:\u00224319dbe7-1a54-91d3-dc9a-14451d12dcb6\u0022,
+            \u0022Name\u0022:\u0022JSK12 - Tag 4\u0022,
+            \u0022SystemPackage\u0022:false
+          },
+          {
+            \u0022Id\u0022:\u00226813eaa9-6925-b989-ef57-7c91572c8dc2\u0022,
+            \u0022Name\u0022:\u0022JSK12 - Tag 5\u0022,
+            \u0022SystemPackage\u0022:false
+          }
+        ]
+      },
+      {
+        \u0022Id\u0022:\u0022c618e4ee-66a4-3f93-c339-353ab1d288b2\u0022,
+        \u0022Name\u0022:\u0022Kurs34\u0022,
+        \u0022Exercises\u0022:[
+          {
+            \u0022Id\u0022:\u002275393757-b83d-803a-3733-90662b88c4d3\u0022,
+            \u0022Name\u0022:\u0022JSK34 - Tag 1\u0022,
+            \u0022SystemPackage\u0022:false
+          },
+          {
+            \u0022Id\u0022:\u00227443acb5-22f0-63a9-e19b-399ac8d69e56\u0022,
+            \u0022Name\u0022:\u0022JSK34 - Tag 2\u0022,
+            \u0022SystemPackage\u0022:false
+          },
+          {
+            \u0022Id\u0022:\u0022a884d8ce-fdbd-555a-524e-16a0376f02dc\u0022,
+            \u0022Name\u0022:\u0022JSK34 - Tag 3\u0022,
+            \u0022SystemPackage\u0022:false
+          },
+          {
+            \u0022Id\u0022:\u00223d431f2c-3d6a-621a-a27b-b3476376f023\u0022,
+            \u0022Name\u0022:\u0022JSK34 - Tag 4\u0022,
+            \u0022SystemPackage\u0022:false
+          },
+          {
+            \u0022Id\u0022:\u0022a596a761-83ac-42c9-9437-293c2ca32a5b\u0022,
+            \u0022Name\u0022:\u0022JSK34 - Tag 5\u0022,
+            \u0022SystemPackage\u0022:false
+          }
+        ]
+      },
+      {
+        \u0022Id\u0022:\u002244a845e0-a917-0798-27cd-aba76a2a3f5c\u0022,
+        \u0022Name\u0022:\u0022Kurs56\u0022,
+        \u0022Exercises\u0022:[
+          {
+            \u0022Id\u0022:\u00225d93a568-106e-d4c8-664a-8916084e3617\u0022,
+            \u0022Name\u0022:\u0022JSK56 - Tag 1\u0022,
+            \u0022SystemPackage\u0022:false
+          },
+          {
+            \u0022Id\u0022:\u00226f64c702-5485-967a-5e57-8263e7c1c276\u0022,
+            \u0022Name\u0022:\u0022JSK56 - Tag 2\u0022,
+            \u0022SystemPackage\u0022:false
+          },
+          {
+            \u0022Id\u0022:\u0022d6e6ece6-b661-8097-3f83-68f6a4818cb2\u0022,
+            \u0022Name\u0022:\u0022JSK56 - Tag 3\u0022,
+            \u0022SystemPackage\u0022:false
+          },
+          {
+            \u0022Id\u0022:\u00229131d8d5-1320-c185-68a6-5364bb4bae68\u0022,
+            \u0022Name\u0022:\u0022JSK56 - Tag 4\u0022,
+            \u0022SystemPackage\u0022:false
+          },
+          {
+            \u0022Id\u0022:\u00224753d564-7255-58c7-0589-77cb32911227\u0022,
+            \u0022Name\u0022:\u0022JSK56 - Tag 5\u0022,
+            \u0022SystemPackage\u0022:false
+          },
+          {
+            \u0022Id\u0022:\u0022ac648b12-6572-eb31-f42b-ddf71a763bca\u0022,
+            \u0022Name\u0022:\u0022JSK56 - Tag 6\u0022,
+            \u0022SystemPackage\u0022:false
+          }
+        ]
+      }
+    ]"
+  }
+]
