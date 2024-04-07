@@ -19,16 +19,7 @@
         "538891c8-ba02-4bc4-becd-0f6785fd9f5a"
       ],
       "FireKind": "ShotByShot",
-      "NumberOfRounds": 3,
-      "PrintBestShot": false
-    },
-    {
-      "TargetDefinition": "2165bfcf-5aa3-402a-9130-539541cd32e1",
-      "UsedScores": [
-        "538891c8-ba02-4bc4-becd-0f6785fd9f5a"
-      ],
-      "FireKind": "ShotByShot",
-      "NumberOfRounds": 3,
+      "NumberOfRounds": 6,
       "PrintBestShot": false
     },
     {
@@ -46,16 +37,7 @@
         "88974b3b-b35b-41ac-bb5c-9c431a4b73f7"
       ],
       "FireKind": "ShotByShot",
-      "NumberOfRounds": 3,
-      "PrintBestShot": false
-    },
-    {
-      "TargetDefinition": "adb1a0dc-c3df-57bc-9f52-c97de1f0e93e",
-      "UsedScores": [
-        "88974b3b-b35b-41ac-bb5c-9c431a4b73f7"
-      ],
-      "FireKind": "ShotByShot",
-      "NumberOfRounds": 3,
+      "NumberOfRounds": 6,
       "PrintBestShot": false
     }
   ],

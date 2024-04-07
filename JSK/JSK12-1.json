@@ -19,25 +19,7 @@
         "538891c8-ba02-4bc4-becd-0f6785fd9f5a"
       ],
       "FireKind": "ShotByShot",
-      "NumberOfRounds": 3,
-      "PrintBestShot": false
-    },
-    {
-      "TargetDefinition": "2165bfcf-5aa3-402a-9130-539541cd32e1",
-      "UsedScores": [
-        "538891c8-ba02-4bc4-becd-0f6785fd9f5a"
-      ],
-      "FireKind": "ShotByShot",
-      "NumberOfRounds": 3,
-      "PrintBestShot": false
-    },
-    {
-      "TargetDefinition": "2165bfcf-5aa3-402a-9130-539541cd32e1",
-      "UsedScores": [
-        "538891c8-ba02-4bc4-becd-0f6785fd9f5a"
-      ],
-      "FireKind": "ShotByShot",
-      "NumberOfRounds": 3,
+      "NumberOfRounds": 9,
       "PrintBestShot": false
     },
     {
