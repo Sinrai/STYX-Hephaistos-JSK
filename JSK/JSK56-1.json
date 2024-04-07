@@ -36,7 +36,7 @@
       "UsedScores": [
         "88974b3b-b35b-41ac-bb5c-9c431a4b73f7"
       ],
-      "FireKind": "Sighters",
+      "FireKind": "ShotByShot",
       "NumberOfRounds": 4,
       "PrintBestShot": false
     },
