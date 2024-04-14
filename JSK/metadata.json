@@ -3,7 +3,7 @@
   "PackageId":"a1ae874c-1ef6-4ecd-af32-a63101618caf",
   "Description":"Programme Jungeschützenkurse CH",
   "MinimumComponentVersion":"3.2.2",
-  "Version":"1.1",
+  "Version":"1.2",
   "SystemPackage":false,
   "DependedPackageId":null,
   "Entries":[
@@ -92,7 +92,8 @@
       "FileName":"JSK-Wettschiessen.json",
       "ResourceType":3,
       "Metadata":null
-    },{"ResourceId":"f7b5e0b4-8fa4-456d-841f-f00989b22591",
+    },{
+      "ResourceId":"fa8469a4-d48f-4f81-bd51-d7f022a30a04",
       "FileName":"Favorite Exercise Sets.json",
       "ResourceType":12
     }
